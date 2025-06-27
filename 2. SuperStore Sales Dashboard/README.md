@@ -67,11 +67,5 @@ Feel free to fork, submit a pull request, or open an issue!
 
 ---
 
-## 🪪 License
-
-This project is licensed under the **MIT License** — free to use, adapt, and share.
-
----
-
 📬 Built by [Utkarsh Jain](https://github.com/UtkarshJain05)  
 Happy Analyzing! 📈
