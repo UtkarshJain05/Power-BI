@@ -1,63 +1,77 @@
-# 🛍️POWER-BI : Utkarsh Ecommerce Sales Dashboard
+# 📊 Sales Analysis Dashboard (Power BI)
 
-Welcome! 👋  
-This repository contains a Power BI dashboard project focused on eCommerce sales analytics. The goal is to turn raw sales data into meaningful insights through visuals, KPIs, and interactive reports — all powered by Power BI.
-
----
-
-## 📸 Dashboard Snapshot
-
-![Dashboard Preview](https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/blob/main/Snapshot%20of%20Ecommerce%20Dashboard.png)
+Hi there! 👋  
+This repository contains a Power BI Template designed to analyze eCommerce and retail sales data using interactive visuals, clean layouts, and insightful KPIs. Whether you're tracking revenue, understanding customer behavior, or analyzing regional trends — this dashboard has got you covered.
 
 ---
 
-## 📁 What’s Included
+## 🖼️ Dashboard Preview
 
-- ✅ A fully structured Power BI `.pbix` file
-- ✅ Data model with relationships between key sales entities
-- ✅ Measures and DAX calculations
-- ✅ Interactive visuals (e.g., bar charts, slicers, cards, etc.)
-- ✅ Clean and user-friendly layout
+![Sales Analysis Dashboard](https://github.com/UtkarshJain05/Power-BI/blob/main/2.%20SuperStore%20Sales%20Dashboard/SnapShot%20of%20SuperStore%20Dashboard.png)
 
 ---
 
-## 🎯 Dashboard Focus Areas
+## 💡 What’s Inside
 
-- 🧾 Total Sales & Revenue Tracking  
-- 📦 Product Category Performance  
-- 🌍 Region-Wise Sales Breakdown  
-- 📊 Monthly Trends & Customer Insights  
-- 🎯 KPIs for Growth, Conversion & Returns  
+- ✅ Power BI Template (.pbit) file  
+- ✅ Dynamic visuals: bar charts, pie charts, line graphs, and maps  
+- ✅ KPI cards for:
+  - 🧾 Orders (22K)  
+  - 💰 Sales (1.6M)  
+  - 📈 Profit (175K)  
+  - 🚚 Ship Days (Avg: 4)  
+- ✅ Filters for Region (East, West, South, Central)  
+- ✅ Monthly trends, segment analysis, payment breakdown, and more
+
+---
+
+## 🔍 Key Insights Provided
+
+- **Sales by Payment Mode** (Cards, COD, Online)
+- **Regional Sales Distribution**
+- **Customer Segment Performance**
+- **Monthly Sales and Profit Trends**
+- **Category & Sub-Category Wise Sales**
+- **Shipping Method Breakdown**
+- **Map of Profit and Sales by State**
 
 ---
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Explore, customize, or publish it to Power BI Service for sharing.
-4. Connect your own data source if you want to reuse the structure.
+1. Download or clone this repository.
+2. Open the `.pbit` file using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. On prompt, connect your dataset (CSV, Excel, SQL, etc.).
+4. Customize visuals, add filters, and publish to Power BI Service if needed.
 
 ---
 
-## 📌 Future Plans
+## 📦 Data Requirements
 
-- Adding filters for customer demographics
-- Enabling drill-through pages for deep analysis
-- Optimizing performance with advanced DAX
-- Exportable report pages for sharing with stakeholders
+To make full use of this template, your dataset should ideally include:
 
----
+- Order ID, Order Date
+- Customer Segment, Region, State
+- Product Category & Sub-Category
+- Sales, Profit, Quantity
+- Payment Mode & Shipping Mode
 
-## 🤝 Contributions
-
-Feel free to fork, use, or contribute ideas!  
-This dashboard is a work in progress and will evolve with more features and polish.
+Feel free to use SuperStore, Sample Superstore, or your own eCommerce dataset.
 
 ---
 
-## 📬 Questions?
+## 🤝 Contributions & Feedback
 
-Reach out via [GitHub Issues](https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/issues) if you want to collaborate or have questions about the project.
+Have ideas to improve this dashboard? Want to contribute or build your own version on top of this?  
+Feel free to fork, submit a pull request, or open an issue!
 
 ---
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — free to use, adapt, and share.
+
+---
+
+📬 Built by [Utkarsh Jain](https://github.com/UtkarshJain05)  
+Happy Analyzing! 📈
