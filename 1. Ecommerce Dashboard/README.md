@@ -60,12 +60,3 @@ This dashboard is a work in progress and will evolve with more features and poli
 
 Reach out via [GitHub Issues](https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/issues) if you want to collaborate or have questions about the project.
 
----
-
-## 🪪 License
-
-This project is licensed under the **MIT License** — free to use, adapt, and share.
-
----
-
-📊 Created with ❤️ by [Utkarsh Jain](https://github.com/UtkarshJain05)
