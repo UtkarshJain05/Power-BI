@@ -7,7 +7,7 @@ This repository contains a Power BI dashboard project focused on eCommerce sales
 
 ## 📸 Dashboard Snapshot
 
-![Dashboard Preview](https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/blob/main/Snapshot%20of%20Ecommerce%20Dashboard.png)
+![Dashboard Preview]([https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/blob/main/Snapshot%20of%20Ecommerce%20Dashboard.png](https://github.com/UtkarshJain05/Power-BI/blob/main/1.%20Ecommerce%20Dashboard/Snapshot%20of%20Ecommerce%20Dashboard.png))
 
 ---
 
