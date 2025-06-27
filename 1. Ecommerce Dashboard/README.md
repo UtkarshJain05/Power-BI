@@ -1,4 +1,4 @@
-# 🛍️POWER-BI : Utkarsh Ecommerce Sales Dashboard
+# 🛍️ POWER BI: Utkarsh Ecommerce Sales Dashboard
 
 Welcome! 👋  
 This repository contains a Power BI dashboard project focused on eCommerce sales analytics. The goal is to turn raw sales data into meaningful insights through visuals, KPIs, and interactive reports — all powered by Power BI.
@@ -7,17 +7,17 @@ This repository contains a Power BI dashboard project focused on eCommerce sales
 
 ## 📸 Dashboard Snapshot
 
-![Dashboard Preview]([https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/blob/main/Snapshot%20of%20Ecommerce%20Dashboard.png](https://github.com/UtkarshJain05/Power-BI/blob/main/1.%20Ecommerce%20Dashboard/Snapshot%20of%20Ecommerce%20Dashboard.png))
+![Dashboard Preview](https://github.com/UtkarshJain05/Power-BI/blob/main/1.%20Ecommerce%20Dashboard/Snapshot%20of%20Ecommerce%20Dashboard.png)
 
 ---
 
 ## 📁 What’s Included
 
-- ✅ A fully structured Power BI `.pbix` file
-- ✅ Data model with relationships between key sales entities
-- ✅ Measures and DAX calculations
-- ✅ Interactive visuals (e.g., bar charts, slicers, cards, etc.)
-- ✅ Clean and user-friendly layout
+- ✅ A fully structured Power BI `.pbix` file  
+- ✅ Data model with relationships between key sales entities  
+- ✅ Measures and DAX calculations  
+- ✅ Interactive visuals (e.g., bar charts, slicers, cards, etc.)  
+- ✅ Clean and user-friendly layout  
 
 ---
 
@@ -33,19 +33,19 @@ This repository contains a Power BI dashboard project focused on eCommerce sales
 
 ## 🚀 How to Use
 
-1. Download the `.pbix` file from this repository.
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-3. Explore, customize, or publish it to Power BI Service for sharing.
+1. Download the `.pbix` file from this repository.  
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).  
+3. Explore, customize, or publish it to Power BI Service for sharing.  
 4. Connect your own data source if you want to reuse the structure.
 
 ---
 
 ## 📌 Future Plans
 
-- Adding filters for customer demographics
-- Enabling drill-through pages for deep analysis
-- Optimizing performance with advanced DAX
-- Exportable report pages for sharing with stakeholders
+- Adding filters for customer demographics  
+- Enabling drill-through pages for deep analysis  
+- Optimizing performance with advanced DAX  
+- Exportable report pages for sharing with stakeholders  
 
 ---
 
@@ -61,3 +61,11 @@ This dashboard is a work in progress and will evolve with more features and poli
 Reach out via [GitHub Issues](https://github.com/UtkarshJain05/POWER-BI-Ecommerce-Dashboard/issues) if you want to collaborate or have questions about the project.
 
 ---
+
+## 🪪 License
+
+This project is licensed under the **MIT License** — free to use, adapt, and share.
+
+---
+
+📊 Created with ❤️ by [Utkarsh Jain](https://github.com/UtkarshJain05)
